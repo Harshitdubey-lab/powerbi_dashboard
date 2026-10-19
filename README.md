@@ -1,5 +1,5 @@
 # powerbi_dashboard
-
+live link :- https://powerbi-dashboard-pi.vercel.app/
 # Smart Data Dashboard Builder (Power BI Inspired)
 
 A responsive web application inspired by Microsoft Power BI. It allows users to import raw datasets (CSV, Excel, API link, Google Sheets, or preloaded sample datasets) and automatically cleans, filters, analyzes, and generates an interactive analytics dashboard with KPI cards, cross-filtering charts, comparative analysis, AI-driven insights, and exportable reports.
